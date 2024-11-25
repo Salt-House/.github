@@ -1,37 +1,36 @@
-## Hi there 👋
-
-When you join us, please check and follow this.
-# The Maimai Website in China!
+## Hi WMC 看这里 👋
 
 
-## BackDevelop Attention 
-### Developing
-- should add annotation in function
-- if you need any source please contact admin to get 
-### Testing
-When you have completed one BackDevelop task , you need to test and follow some requirements.
-- give the test data (if need
-- create the test function and upload you feature branch
-- must add test image in your task md
-### Complete
-- when you complete some task about api, please provide one sample for api at least
-- write the markdown to mark your use dependences
+#Maimai in China
 
 
-## FrontDevelop Attention
-### Developing
-- Please mark you use frame and package
-- When you need any source, at first ,check apiDoc. If you don't find you need thing, please contact admin and add one issue.
-### Testing
-- please mark your test platfrom
-- please contact QA to join your test
-### Complete
-- write the markdown to declare you used api.
+## 后端开发注意
+### 开发中
+- 每一个主要功能函数都应该被添加注释
+- 如果您在开发中需要任何资源请联系Admin
+### 测试中
+当你完成你的开发时，你必须对其进行测试并且遵循以下内容
+- 请提供你的测试数据（如果有
+- 创造测试函数，并且上传到您的特征分支
+### 完成后
+- 当您完成任何有关API的任务的时候，您必须提供至少一个的相应调用案例（可以使用postman生成）
+- 请指明您所添加的依赖以及版本
 
 
-## PreDevelop Prefix 
-- Front is the front task
-- Back is the back task
-- Temp is the planning task, we want to do ,but something is short
-- Extern is the task out of main task, main developer will not foucs on it
-- Main is the task of project, if you is assigned , you can't be assigned any external task until you complete it.
+## 前端开发注意
+### 开发中
+- 请标记您使用的框架以及第三方包（我们不希望每个后续接手的人需要重复阅读package去查看实现主要功能的第三方包）
+- 当您需要任何资源的时候请查看API文档，如果没有请联系admin并且发issue
+### 测试中
+- 请标记您测试的平台
+- 请联系QA人员参与您的测试
+### 完成后
+- 请表明您所使用的重要API
+
+
+## Projects中的前缀
+- Front 前端任务
+- Back 后端任务
+- Temp 计划中的任务，我们希望去做，但是目前缺少一些内容
+- Extern 项目主任务之外的任务
+- Main 项目的主任务，如果您有任何的主任务被分配，您无法再申请任何的其他无关联主任务以及Extern任务
