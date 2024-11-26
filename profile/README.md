@@ -6,6 +6,9 @@
 ## 约定
 
 每一个主要功能的开发和测试应该在对应的分支中进行，最终经由PullRequests合并到主分支中
+### 所有提交commit遵循以下规则
+![Pasted Graphic](https://github.com/user-attachments/assets/a5f33f5f-f617-4090-834a-25532b669cde)
+
 
 ## 后端开发注意
 ### 开发中
