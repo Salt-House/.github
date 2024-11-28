@@ -1,6 +1,5 @@
 ## Hi WMC 看这里 👋
 
-
 #Maimai in China
 
 ## 约定
@@ -31,6 +30,9 @@
 - 请尽可能在较多的平台和设备上测试页面的表现
 ### 完成后
 - 请联系QA人员参与您的测试
+
+## 项目开发计划
+- [MaiWeb-CN](/project/MaiWeb-CN.md)
 
 
 ## Projects中的前缀
