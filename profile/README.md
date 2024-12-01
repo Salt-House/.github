@@ -1,6 +1,10 @@
 ## Hi WMC 看这里 👋
 
 #Maimai in China
+吹水群群号734304941<br></br>
+<img width="370" alt="截屏2024-12-01 12 39 37" src="https://github.com/user-attachments/assets/754c42bf-eb3b-4d33-919d-42a7f5513c03">
+
+
 
 ## 目录
 - [约定](#约定)
